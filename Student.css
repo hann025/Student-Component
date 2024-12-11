@@ -1,0 +1,119 @@
+.student-content {
+    padding: 2%;
+    background-color: #fff;
+  }
+  
+  .header-student {
+    background-color: #fff;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    border: 1px solid blue;
+    border-radius: 10px;
+  }
+  
+  .header-student h2 {
+    color: black;
+    border-right: 1px solid black;
+    padding-right: 20px;
+    font-weight: bold;
+  }
+  
+  .header-student p {
+    padding-left: 10px;
+  }
+  
+  .assignstudentbutton {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  
+  .student-main {
+    background-color: #fff;
+    padding: 1rem;
+    border-radius: 10px;
+  }
+  
+  .student-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #4CBEFF;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .student-header p {
+    font-weight: bold;
+    width: 20%;
+  }
+  
+  .student-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 0;
+    border-bottom: 1px solid #4CBEFF;
+  }
+  
+  .student-row p {
+    width: 20%;
+  }
+  
+  .student-row button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .student-form {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
+  .student-form h3 {
+    color: black;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .student-form label {
+    display: block;
+    margin-bottom: 5px;
+    color: black;
+  }
+  
+  .student-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  .form-buttons {
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+  }
+  
+  .form-buttons button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
